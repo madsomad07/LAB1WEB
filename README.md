@@ -3,4 +3,6 @@
 
 ### Input Gambar
 Screenshot 1
-![img]Screenshot/ss1.png
+![Gambar 1](Screenshot/ss1.png)
+![Gambar 2](Screenshot/ss2.png)
+![Gambar 3](Screenshot/ss3.png)
